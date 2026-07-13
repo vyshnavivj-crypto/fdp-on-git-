@@ -1,0 +1,9 @@
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+
