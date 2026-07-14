@@ -1,0 +1,6 @@
+SlNo,FacultyName,Department,Day1,Day2,Day3,Day4,Day5
+1,Faculty A,AIML,Present,Present,Present,Present,Present
+2,Faculty B,CSE,Present,Present,Absent,Present,Present
+3,Faculty C,ECE,Present,Present,Present,Present,Absent
+4,Faculty D,MBA,Present,Absent,Present,Present,Present
+
