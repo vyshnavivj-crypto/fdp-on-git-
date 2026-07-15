@@ -1,0 +1,13 @@
+ExperimentNo,ExperimentTitle,CurrentLevel,ProposedDurationMinutes,ImprovementOwner,ImprovementStatus
+1,Repository Setup Git Basics and Documentation,L3,90,Team A,To Review
+2,Branch Creation and Parallel Development,L3,90,Team B,To Review
+3,Merge Operations and Conflict Resolution,L4,120,Team C,To Review
+4,Work Interruption Handling and Safe Recovery,L4,120,Team D,To Review
+5,Remote Repository Setup and Synchronization,L3,90,Team E,To Review
+6,Pull Requests and Collaborative Review Workflow,L5,120,Team F,To Review
+7,Release Management with Tags,L3,60,Team A,To Review
+8,Repository History Audit and Accountability,L4,90,Team B,To Review
+9,Pre-Commit Quality Gates and Security,L6,120,Team C,To Review
+10,CI Automation with GitHub Actions,L6,120,Team D,To Review
+11,Integrated Mini Project Workflow,L6,180,All Teams,To Review
+

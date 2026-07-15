@@ -1,0 +1,147 @@
+# ============================================================
+# .gitignore for FDP: Git for Academic Document Collaboration
+# Project: Project Management with Git syllabus improvement
+# Purpose: Ignore temporary, local, generated, and sensitive files
+# while tracking academic source documents such as .docx, .pptx,
+# .xlsx, .pdf, .txt, .csv, and .md files.
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 1. Operating system files
+# ------------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+
+# ------------------------------------------------------------
+# 2. Microsoft Office temporary and lock files
+# These are created automatically when Word, PowerPoint, or Excel
+# documents are opened. They should not be committed.
+# ------------------------------------------------------------
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.ppt
+~$*.xlsx
+~$*.xls
+*.tmp
+*.temp
+
+
+# ------------------------------------------------------------
+# 3. LibreOffice / OpenOffice lock files
+# ------------------------------------------------------------
+.~lock.*#
+
+
+# ------------------------------------------------------------
+# 4. Backup and autosave files
+# ------------------------------------------------------------
+*.bak
+*.backup
+*.old
+*.orig
+*.autosave
+*.swp
+*.swo
+*~
+
+
+# ------------------------------------------------------------
+# 5. Logs and local run outputs
+# ------------------------------------------------------------
+*.log
+logs/
+output/
+outputs/
+temp/
+tmp/
+
+
+# ------------------------------------------------------------
+# 6. Local configuration and environment files
+# Do not commit private machine-specific settings.
+# ------------------------------------------------------------
+.env
+.env.*
+*.local
+config.local.*
+settings.local.*
+
+
+# ------------------------------------------------------------
+# 7. Secrets and keys
+# These are included for the pre-commit/security lab.
+# Real credentials should never be committed.
+# ------------------------------------------------------------
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.txt
+secret.txt
+credentials.txt
+api_keys.txt
+passwords.txt
+
+
+# ------------------------------------------------------------
+# 8. Python/cache folders sometimes created during CI demos
+# ------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+
+
+# ------------------------------------------------------------
+# 9. Node folders sometimes created during GitHub Actions demos
+# ------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# ------------------------------------------------------------
+# 10. Generated release folders
+# Keep source documents in Git, but ignore regenerated release bundles.
+# ------------------------------------------------------------
+release-build/
+dist/
+build/
+
+
+# ------------------------------------------------------------
+# 11. Large archives created during submission or sharing
+# ------------------------------------------------------------
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+
+# ------------------------------------------------------------
+# 12. Workshop-specific local evidence folders
+# Participants may keep screenshots locally unless instructed to submit.
+# ------------------------------------------------------------
+screenshots-local/
+evidence-local/
+
+
+# ------------------------------------------------------------
+# Important:
+# Do NOT ignore these academic source files. They are intentionally
+# tracked in this workshop:
+# *.docx, *.pptx, *.xlsx, *.pdf, *.txt, *.csv, *.md
+# ------------------------------------------------------------

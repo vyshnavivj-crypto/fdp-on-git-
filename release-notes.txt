@@ -1,0 +1,15 @@
+Release Notes
+
+Version: v1.0
+Release Title: Initial Approved Syllabus Improvement Baseline
+
+Included Changes:
+1. Added syllabus improvement notes.
+2. Added experiment-wise duration planning file.
+3. Added practical evaluation rubric.
+4. Added review comments template.
+
+Known Issues:
+1. GitHub Actions demonstration requires internet access and GitHub login.
+2. Word/PPT/Excel files are tracked but not suitable for detailed line-wise merge.
+

@@ -1,0 +1,23 @@
+Syllabus Improvement Notes
+
+Current Course
+Project Management with Git
+
+Overall Improvement Goal
+Make the syllabus more teachable, balanced and aligned with hands-on Git
+practice using academic and software project examples.
+
+Improvement Areas
+1. Balance the time required for each experiment.
+2. Make branch, merge and conflict resolution easier for beginners.
+3. Add clearer faculty instructions for GitHub Pull Requests.
+4. Add realistic assessment rubrics for practical evaluation.
+5. Clarify how hooks and GitHub Actions can be demonstrated.
+6. Ensure the final mini-project integrates all major Git concepts.
+
+Open Questions
+1. Are all experiments equal in difficulty?
+2. Should GitHub Actions be a full hands-on activity or instructor demo?
+3. Should Word/PPT/Excel files be used throughout, or only for selected tasks?
+4. Which experiments require text or CSV files for proper Git demonstration?
+
