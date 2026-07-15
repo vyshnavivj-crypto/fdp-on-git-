@@ -30,9 +30,6 @@ Example Branch Names
 - bugfix-learning-levels
 
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 3be09e4 (fdp.txt)
 
 
 
@@ -41,12 +38,8 @@ Example Branch Names
 fdp on GIT
 day1 program1
 day2 program2
-<<<<<<< HEAD
 day3 program4
 =======
 HELLO GIT1
 day3 lab program3
 >>>>>>> branch4
-=======
-day3 program4
->>>>>>> 3be09e4 (fdp.txt)
