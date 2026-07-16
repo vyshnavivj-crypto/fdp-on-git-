@@ -21,7 +21,7 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-rubrics.txt
+git.txt
 # ------------------------------------------------------------
 # 2. Microsoft Office temporary and lock files
 # These are created automatically when Word, PowerPoint, or Excel
