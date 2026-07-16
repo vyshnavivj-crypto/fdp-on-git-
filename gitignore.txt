@@ -21,7 +21,6 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-git.txt
 # ------------------------------------------------------------
 # 2. Microsoft Office temporary and lock files
 # These are created automatically when Word, PowerPoint, or Excel
@@ -145,3 +144,4 @@ evidence-local/
 # tracked in this workshop:
 # *.docx, *.pptx, *.xlsx, *.pdf, *.txt, *.csv, *.md
 # ------------------------------------------------------------
+fdp2.txt
